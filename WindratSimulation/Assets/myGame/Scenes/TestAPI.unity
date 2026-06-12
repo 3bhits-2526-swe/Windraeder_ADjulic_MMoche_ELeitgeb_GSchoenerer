@@ -542,7 +542,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7053ec0964b487248aff3832d2f41f43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  output: {fileID: 1800730057}
+  weatherText: {fileID: 1800730057}
+  latitude: 52.52
+  longitude: 13.405
 --- !u!4 &1598751165
 Transform:
   m_ObjectHideFlags: 0
